@@ -58,8 +58,8 @@ plt.show()
 ```
 
 ## Output:
-![OUTPUT]()
-![OUTPUT]()
+![OUTPUT](https://github.com/gunasekhar159/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/EX2.png?raw=true)
+![OUTPUT](https://github.com/gunasekhar159/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/EX2-2.png?raw=true)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
